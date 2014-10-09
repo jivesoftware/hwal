@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.jivesoftware.os.hwal.inheritance.poms</groupId>
         <artifactId>global-repo-management</artifactId>
-        <version>0.1</version>
+        <version>0.2-SNAPSHOT</version>
         <relativePath>../global-repo-management/pom.xml</relativePath>
     </parent>
     <artifactId>global-version-management</artifactId>
@@ -18,7 +18,7 @@
             <dependency>
                 <groupId>com.jivesoftware.os.hwal</groupId>
                 <artifactId>hwal</artifactId>
-                <version>0.1</version>
+                <version>0.2-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.jivesoftware.os.jive.utils</groupId>
@@ -43,7 +43,7 @@
             <dependency>
                 <groupId>com.jivesoftware.os.hwal</groupId>
                 <artifactId>permit</artifactId>
-                <version>0.1</version>
+                <version>0.2-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.jivesoftware.os.rcvs</groupId>
